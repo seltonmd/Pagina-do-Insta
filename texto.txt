@@ -1,0 +1,10 @@
+Descrição do Desafio
+
+
+Nesse projeto o objetivo era reconstruir a página do Instagram, fazendo o uso do CSS com flexbox.
+Resultado de imagem para Projeto usando css flexbox
+O primeiro passo para começar a usar Flexbox é criar um flex container. 
+Elementos-filhos de um flex container são chamados flex items e são leiautados dentro do flex container usando as propriedades Flexbox.
+Algumas das propriedades Flexbox são aplicadas ao container; outras, aos items. 
+Um dos elementos mais utilizados se tratando de responsividade.
+Apesar da simplicidade foi muito importante para o meu aprendizado e evolução.
